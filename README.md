@@ -1,1 +1,1 @@
-# CD-CI
+auto dedv
